@@ -24,4 +24,7 @@ Run the DataVisible class to generate two graphs that illustrate the player perf
 
 ## Related Project
 
-Fox_Frenzy [Fox_Frenzy]{https://github.com/jeff-Tianfeng/Fox_Frenzy}
+Fox_Frenzy [Fox_Frenzy](https://github.com/jeff-Tianfeng/Fox_Frenzy)
+CTGAN [CTGAN](https://github.com/sdv-dev/CTGAN)
+
+Lei Xu, Maria Skoularidou, Alfredo Cuesta-Infante, Kalyan Veeramachaneni. Modeling Tabular data using Conditional GAN. NeurIPS, 2019.
